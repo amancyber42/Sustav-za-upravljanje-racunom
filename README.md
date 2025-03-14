@@ -1,4 +1,5 @@
-## Sustav za upravljanje računom projekt Sigurna prijava i sustav za upravljanje računima!
+## Sustav za upravljanje računom projekt 
+Sigurna prijava i sustav za upravljanje računima!
 Ova aplikacija temeljena na terminalu pruža siguran i učinkovit način upravljanja korisničkim računima 
 i autentifikacijom, implementiran u C++.
 
